@@ -1,1 +1,3 @@
 Led para tarjetas perforadas
+ la diferencia connlos smd o de montaje superficial 
+ es que tienen que atracesar la baquelita
